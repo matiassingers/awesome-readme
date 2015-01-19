@@ -3,6 +3,11 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## General
+- [sindresorhus/pageres](https://github.com/sindresorhus/pageres)
+- [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird)
+- [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie)
+
 
 ## Contribute
 
