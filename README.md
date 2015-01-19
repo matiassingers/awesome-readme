@@ -3,6 +3,8 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+Elements in beautiful READMEs include, but not limited to: images, screenshots, GIFs, text formatting, etc.
+
 ## General
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres)
 - [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird)
