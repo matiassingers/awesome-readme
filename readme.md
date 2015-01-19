@@ -1,4 +1,4 @@
-<img src="http://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Mimetypes-text-x-readme-icon.png" align="right" />
+<img src="icon.png" align="right" />
 # Awesome README
 > A curated list of awesome README
 
