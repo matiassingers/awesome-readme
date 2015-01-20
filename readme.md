@@ -11,6 +11,7 @@ Elements in beautiful READMEs include, but not limited to: images, screenshots, 
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres)
 - [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird)
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie)
+- [karan/joe](https://github.com/karan/joe) - Project logo/icon. Clear description of what the project does. GIF demo. Easy install and usage sections.
 
 
 ## Articles
