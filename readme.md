@@ -15,10 +15,10 @@ Elements in beautiful READMEs include, but not limited to: images, screenshots, 
 
 
 ## Articles
-- [How To Write A Readme](http://jesusabdullah.github.io/2011/11/09/readmes.html) - *Joshua Holbrook*
-- [How To Write A Great README](http://robots.thoughtbot.com/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
-- [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
-- [Top ten reasons why I won’t use your open source project](http://thechangelog.com/top-ten-reasons-why-i-wont-use-your-open-source-project/) - *Adam Stacoviak*
+- ["How To Write A Readme"](http://jesusabdullah.github.io/2011/11/09/readmes.html) - *Joshua Holbrook*
+- ["How To Write A Great README"](http://robots.thoughtbot.com/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
+- ["Readme Driven Development"](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
+- ["Top ten reasons why I won’t use your open source project"](http://thechangelog.com/top-ten-reasons-why-i-wont-use-your-open-source-project/) - *Adam Stacoviak*
 
 
 ## Contribute
