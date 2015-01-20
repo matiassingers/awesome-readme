@@ -8,10 +8,10 @@ Elements in beautiful READMEs include, but not limited to: images, screenshots, 
 
 
 ## Examples
-- [sindresorhus/pageres](https://github.com/sindresorhus/pageres)
-- [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird)
-- [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie)
-- [karan/joe](https://github.com/karan/joe) - Project logo/icon. Clear description of what the project does. GIF demo. Easy install and usage sections.
+- [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
+- [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) - Build badges. Clear description of what the project does. TOC for easy navigation. Project logo. Extensive explanations and examples.
+- [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
+- [karan/joe](https://github.com/karan/joe) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
 
 
 ## Articles
