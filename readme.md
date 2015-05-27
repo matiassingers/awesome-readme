@@ -16,6 +16,7 @@ Elements in beautiful READMEs include, but not limited to: images, screenshots, 
 - [rstacruz/hicat](https://github.com/rstacruz/hicat) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
 - [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
 - [shama/gaze](https://github.com/shama/gaze) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
+- [node-chat](https://github.com/IgorAntun/node-chat) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
 
 
 ## Articles
