@@ -18,6 +18,7 @@ Elements in beautiful READMEs include, but not limited to: images, screenshots, 
 - [shama/gaze](https://github.com/shama/gaze) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
 - [node-chat](https://github.com/IgorAntun/node-chat) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
 - [b4b4r07/dotfiles](https://github.com/b4b4r07/dotfiles) - Testing my dotfiles repo on OS X to get my work environment ready in just a few moments. #VIM + #ZSH + #TMUX = Best Developer Environment.
+- [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Huge logo. Project slogan and description. Informative badges. Easy installation and quick start guide. Available both in English and Chinese.
 
 
 ## Articles
