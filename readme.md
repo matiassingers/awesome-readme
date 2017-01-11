@@ -29,6 +29,7 @@ Elements in beautiful READMEs include, but not limited to: images, screenshots, 
 
 ## Tools
 - [Standard Readme](https://github.com/RichardLitt/standard-readme) - A standard readme style specification. Has a generator to help creat spec-compliant readmes, too.
+- [Common Readme](https://github.com/noffle/common-readme) - A common readme style for Node. Includes a guide and a readme generator.
 
 ## Contribute
 
