@@ -19,6 +19,7 @@ Elements in beautiful READMEs include, but not limited to: images, screenshots, 
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
 - [Day8/re-frame](https://github.com/Day8/re-frame) - Badges, logo, TOC, etc. Stands out by being a giant, well written, essay about the tech, how to use it, the philosophy behind it and how it fits into the greater ecosystem.
 - [iharsh234/WebApp](https://github.com/iharsh234/WebApp) - Project Landing Page. Clear description of what the project does.Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.Include mobile demo section as well.
+- [Martinsos/edlib](https://github.com/Martinsos/edlib) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
 
 ## Articles
 - ["How To Write A Readme"](http://jfhbrook.github.io/2011/11/09/readmes.html) - *Joshua Holbrook*
