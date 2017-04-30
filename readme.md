@@ -1,8 +1,8 @@
 <img src="icon.png" align="right" />
 # Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of awesome README
+> A curated list of awesome READMEs
 
-Elements in beautiful READMEs include, but not limited to: images, screenshots, GIFs, text formatting, etc.
+Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
 
 ## Examples
@@ -17,8 +17,11 @@ Elements in beautiful READMEs include, but not limited to: images, screenshots, 
 - [node-chat](https://github.com/IgorAntun/node-chat) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
 - [b4b4r07/dotfiles](https://github.com/b4b4r07/dotfiles) - Testing my dotfiles repo on OS X to get my work environment ready in just a few moments. #VIM + #ZSH + #TMUX = Best Developer Environment.
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
-- [Day8/re-frame](https://github.com/Day8/re-frame) - Badges, logo, TOC, etc. Stands out by being a giant, well written, essay about the tech, how to use it, the philosophy behind it and how it fits into the greater ecosystem.
-- [iharsh234/WebApp](https://github.com/iharsh234/WebApp) - Project Landing Page. Clear description of what the project does.Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.Include mobile demo section as well.
+- [Day8/re-frame](https://github.com/Day8/re-frame) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
+- [iharsh234/WebApp](https://github.com/iharsh234/WebApp) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
+
+## Templates and Guides
+- [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md) - Simple template to help you cover all the basics.
 
 ## Articles
 - ["How To Write A Readme"](http://jfhbrook.github.io/2011/11/09/readmes.html) - *Joshua Holbrook*
@@ -28,7 +31,7 @@ Elements in beautiful READMEs include, but not limited to: images, screenshots, 
 - ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme) - *Stephen Whitmore*
 
 ## Tools
-- [Standard Readme](https://github.com/RichardLitt/standard-readme) - A standard readme style specification. Has a generator to help creat spec-compliant readmes, too.
+- [Standard Readme](https://github.com/RichardLitt/standard-readme) - A standard README style specification. Has a generator to help creat spec-compliant READMEs, too.
 
 ## Contribute
 
