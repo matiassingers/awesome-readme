@@ -32,6 +32,7 @@ Elements in beautiful READMEs include, but not limited to: images, screenshots, 
 - ["Readme Driven Development"](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
 - ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
 - ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme) - *Stephen Whitmore*
+- ["Writing Kickass READMEs"](http://www.bauva.com/blog/Writing-Kickass-READMEs/) - *Pranit Bauva*
 
 ## Tools
 - [Standard Readme](https://github.com/RichardLitt/standard-readme) - A standard readme style specification. Has a generator to help create spec-compliant readmes, too.
