@@ -1,9 +1,9 @@
 <img src="icon.png" align="right" />
 
 # Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of awesome README
+> A curated list of awesome READMEs
 
-Elements in beautiful READMEs include, but not limited to: images, screenshots, GIFs, text formatting, etc.
+Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
 
 ## Examples
@@ -19,12 +19,13 @@ Elements in beautiful READMEs include, but not limited to: images, screenshots, 
 - [shama/gaze](https://github.com/shama/gaze) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
 - [node-chat](https://github.com/IgorAntun/node-chat) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
-- [Day8/re-frame](https://github.com/Day8/re-frame) - Badges, logo, TOC, etc. Stands out by being a giant, well written, essay about the tech, how to use it, the philosophy behind it and how it fits into the greater ecosystem.
-- [iharsh234/WebApp](https://github.com/iharsh234/WebApp) - Project Landing Page. Clear description of what the project does.Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.Include mobile demo section as well.
+- [Day8/re-frame](https://github.com/Day8/re-frame) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
+- [iharsh234/WebApp](https://github.com/iharsh234/WebApp) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
 - [yoshuawuyts/choo](https://github.com/yoshuawuyts/choo) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
 - [Martinsos/edlib](https://github.com/Martinsos/edlib) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
+
 
 ## Articles
 - ["How To Write A Readme"](http://jfhbrook.github.io/2011/11/09/readmes.html) - *Joshua Holbrook*
@@ -34,8 +35,12 @@ Elements in beautiful READMEs include, but not limited to: images, screenshots, 
 - ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme) - *Stephen Whitmore*
 
 ## Tools
-- [Standard Readme](https://github.com/RichardLitt/standard-readme) - A standard readme style specification. Has a generator to help create spec-compliant readmes, too.
+
 - [Common Readme](https://github.com/noffle/common-readme) - A common readme style for Node. Includes a guide and a readme generator.
+- [Feedmereadmes](https://github.com/lappleapple/feedmereadmes) - README editing and project analysis/feedback.
+- [Standard Readme](https://github.com/RichardLitt/standard-readme) - A standard README style specification. Has a generator to help creat spec-compliant READMEs, too.
+- [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md) - Simple template to help you cover all the basics.
+
 
 ## Contribute
 
