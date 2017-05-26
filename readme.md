@@ -7,27 +7,85 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 
 ## Examples
-- [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion) - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.
-- [NSRare/NSGIF](https://github.com/NSRare/NSGIF) - Project logo. GIF Demo. Usage artwork. Usage code samples.
-- [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
-- [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) - Build badges. Clear description of what the project does. TOC for easy navigation. Project logo. Extensive explanations and examples.
-- [jakubroztocil/httpie](https://github.com/jkbrzt/httpie) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
-- [karan/joe](https://github.com/karan/joe) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
-- [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-- [rstacruz/hicat](https://github.com/rstacruz/hicat) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
-- [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
-- [shama/gaze](https://github.com/shama/gaze) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
-- [node-chat](https://github.com/IgorAntun/node-chat) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
-- [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
-- [Day8/re-frame](https://github.com/Day8/re-frame) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
-- [iharsh234/WebApp](https://github.com/iharsh234/WebApp) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
-- [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
-- [yoshuawuyts/choo](https://github.com/yoshuawuyts/choo) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
-- [Martinsos/edlib](https://github.com/Martinsos/edlib) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
+
+<ul>
+  <li><details>
+    <summary><a href="https://github.com/sebyddd/SDVersion/tree/124b4d1ab74c771e751d4297c35e64abf6aba913">sebyddd/SDVersion</a> - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.</summary>
+    <img src="screenshots/sebyddd-SDVersion.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/NSRare/NSGIF/tree/d62330a2635e61d33175caefd1346259fb6092e0">NSRare/NSGIF</a> - Project logo. GIF Demo. Usage artwork. Usage code samples.</summary>
+    <img src="screenshots/NSRare-NSGIF.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/sindresorhus/pageres/tree/7576249b66accd3fb832dc7b65925aa95978ed2a">sindresorhus/pageres</a> - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.</summary>
+    <img src="screenshots/sindresorhus-pageres.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/petkaantonov/bluebird/tree/9ab9d545b2fa0dd29efc5df43789cf43b6555c68">petkaantonov/bluebird</a> - Build badges. Clear description of what the project does. TOC for easy navigation. Project logo. Extensive explanations and examples.</summary>
+    <img src="screenshots/petkaantonov-bluebird.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/jakubroztocil/httpie/tree/f1d4861faed6486a356175ce9f92d4da96ddba01">jakubroztocil/httpie</a> - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.</summary>
+    <img src="screenshots/jakubroztocil-httpie.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/karan/joe/tree/f5f03b8bf98c376bd075fee955fccd989ff27632">karan/joe</a> - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.</summary>
+    <img src="screenshots/karan-joe.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/aimeos/aimeos-typo3/tree/77d67e69a86928a35e7f46be479e7dfffa72738a">aimeos/aimeos-typo3</a> - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.</summary>
+    <img src="screenshots/aimeos-aimeos-typo3.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/rstacruz/hicat/tree/cb4a936780f1c3c8ea4d361c366c8c06db29f474">rstacruz/hicat</a> - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.</summary>
+    <img src="screenshots/rstacruz-hicat.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/skywinder/github-changelog-generator/tree/20d059b78e02d9b60ebabcb4549c68e47cbc9a30">skywinder/github-changelog-generator</a> - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.</summary>
+    <img src="screenshots/skywinder-github-changelog-generator.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/shama/gaze/tree/b9b82574ab0971a8c256b6be2b3b2010ffe2b19a">shama/gaze</a> - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.</summary>
+    <img src="screenshots/shama-gaze.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/IgorAntun/node-chat/tree/a558b4555b7e53ac577049b1688390fd54a7eda3">IgorAntun/node-chat</a> - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.</summary>
+    <img src="screenshots/IgorAntun-node-chat.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/anfederico/Clairvoyant/tree/a79a2dca9deae8a9cf0eeef92039a4f981356244">anfederico/Clairvoyant</a> - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.</summary>
+    <img src="screenshots/anfederico-Clairvoyant.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/Day8/re-frame">Day8/re-frame</a> - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.</summary>
+    <img src="screenshots/Day8-re-frame.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/iharsh234/WebApp">iharsh234/WebApp</a> - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.</summary>
+    <img src="screenshots/iharsh234-WebApp.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/amitmerchant1990/electron-markdownify/tree/39e4e3d4d7a1207a4d0b459e7167f241a346b902">amitmerchant1990/electron-markdownify</a> - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.</summary>
+    <img src="screenshots/amitmerchant1990-electron-markdownify.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/ryanoasis/nerd-fonts/tree/349d5663abefbccdc88e25723a26f5a3812978dc">ryanoasis/nerd-fonts</a> - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.</summary>
+    <img src="screenshots/ryanoasis-nerd-fonts.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/yoshuawuyts/choo/tree/8ff7deea3cc0b1041338068211b3cf5662df8b2e">yoshuawuyts/choo</a> - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.</summary>
+    <img src="screenshots/yoshuawuyts-choo.png">
+  </details></li>
+  <li><details>
+    <summary><a href="https://github.com/Martinsos/edlib/tree/c1f04e8e11b232c0fc3baa462e0a579fd3bdad4d">Martinsos/edlib</a> - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.</summary>
+    <img src="screenshots/Martinsos-edlib.png">
+  </details></li>
+</ul>
 
 
 ## Articles
+
 - ["How To Write A Readme"](http://jfhbrook.github.io/2011/11/09/readmes.html) - *Joshua Holbrook*
 - ["How To Write A Great README"](https://robots.thoughtbot.com/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
 - ["Readme Driven Development"](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
