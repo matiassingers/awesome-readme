@@ -41,6 +41,13 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [Standard Readme](https://github.com/RichardLitt/standard-readme) - A standard README style specification. Has a generator to help creat spec-compliant READMEs, too.
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md) - Simple template to help you cover all the basics.
 
+## Creating GIFs
+
+Embedding [an animated gif in your README](https://github.com/rstacruz/hicat#hicat-cat) will quickly demonstrate what your project does and catch the reader's eye.  Here are a few programs that can help you quickly create gifs for your project.
+
+- [recordit](http://recordit.co/) - **FREE** - Simple, clean UI, but auto-uploads to [recordit.co](http://recordit.co)
+- [licecap](http://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features
+- [gifox](http://gifox.io/) - **$4** - Cleanest UI, hotkeys, lots of advanced features
 
 ## Contribute
 
