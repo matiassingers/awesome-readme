@@ -43,11 +43,11 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 ## Creating GIFs
 
-Embedding [an animated gif in your README](https://github.com/rstacruz/hicat#hicat-cat) will quickly demonstrate what your project does and catch the reader's eye.  Here are a few programs that can help you quickly create gifs for your project.
+Embedding an animated gif in your README quickly demonstrates what your project does and catches the reader's eye.  Here are a few programs that can help you quickly create gifs for your project:
 
-- [recordit](http://recordit.co/) - **FREE** - Simple, clean UI, but auto-uploads to [recordit.co](http://recordit.co)
-- [licecap](http://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features
-- [gifox](http://gifox.io/) - **$4** - Cleanest UI, hotkeys, lots of advanced features
+- [Gifox](http://gifox.io/) - **$4** - Cleanest UI, hotkeys, lots of advanced features
+- [LICEcap](http://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features
+- [Recordit](http://recordit.co/) - **FREE** - Simple, clean UI, but auto-uploads to [recordit.co](http://recordit.co)
 
 ## Contribute
 
