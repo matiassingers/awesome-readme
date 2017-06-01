@@ -25,7 +25,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
 - [yoshuawuyts/choo](https://github.com/yoshuawuyts/choo) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
 - [Martinsos/edlib](https://github.com/Martinsos/edlib) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
-- [angular-medellin/meetup](https://github.com/angular-medellin/meetup) - Project banner. Badges for stats. Well placed emoticons. Contributors photos. 
+- [angular-medellin/meetup](https://github.com/angular-medellin/meetup) - Project banner. Badges for stats. Well placed emoticons. Contributor's photos.
 
 ## Articles
 - ["How To Write A Readme"](http://jfhbrook.github.io/2011/11/09/readmes.html) - *Joshua Holbrook*
