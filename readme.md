@@ -11,7 +11,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [NSRare/NSGIF](https://github.com/NSRare/NSGIF) - Project logo. GIF Demo. Usage artwork. Usage code samples.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
 - [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) - Build badges. Clear description of what the project does. TOC for easy navigation. Project logo. Extensive explanations and examples.
-- [jakubroztocil/httpie](https://github.com/jkbrzt/httpie) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
+- [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
 - [karan/joe](https://github.com/karan/joe) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 - [rstacruz/hicat](https://github.com/rstacruz/hicat) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
@@ -41,6 +41,13 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [Standard Readme](https://github.com/RichardLitt/standard-readme) - A standard README style specification. Has a generator to help creat spec-compliant READMEs, too.
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md) - Simple template to help you cover all the basics.
 
+## Creating GIFs
+
+Embedding an animated gif in your README quickly demonstrates what your project does and catches the reader's eye.  Here are a few programs that can help you quickly create gifs for your project:
+
+- [Gifox](http://gifox.io/) - **$4** - Cleanest UI, hotkeys, lots of advanced features
+- [LICEcap](http://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features
+- [Recordit](http://recordit.co/) - **FREE** - Simple, clean UI, but auto-uploads to [recordit.co](http://recordit.co)
 
 ## Contribute
 
