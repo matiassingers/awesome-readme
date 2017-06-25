@@ -44,7 +44,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 Embedding an animated gif in your README quickly demonstrates what your project does and catches the reader's eye.  Here are a few programs that can help you quickly create gifs for your project:
 
-- [Gifox](http://gifox.io/) - **$4** - Cleanest UI, hotkeys, lots of advanced features
+- [Gifox](https://gifox.io) - **$4** - Cleanest UI, hotkeys, lots of advanced features
 - [LICEcap](http://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features
 - [Recordit](http://recordit.co/) - **FREE** - Simple, clean UI, but auto-uploads to [recordit.co](http://recordit.co)
 - [ttystudio](https://github.com/chjj/ttystudio) - **FREE** - For commandline tools, a terminal-to-gif recorder minus the headaches.
