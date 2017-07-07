@@ -47,7 +47,7 @@ Embedding an animated gif in your README quickly demonstrates what your project 
 
 - [Gifox](https://gifox.io) - **$4** - Cleanest UI, hotkeys, lots of advanced features
 - [Giphy Capture](https://giphy.com/apps/giphycapture) - **FREE** - Easy to upload to giphy.com, slightly annoying UX.
-- [LICEcap](http://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features
+- [LICEcap](https://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features
 - [Recordit](http://recordit.co/) - **FREE** - Simple, clean UI, but auto-uploads to [recordit.co](http://recordit.co)
 - [ttystudio](https://github.com/chjj/ttystudio) - **FREE** - For commandline tools, a terminal-to-gif recorder minus the headaches.
 
