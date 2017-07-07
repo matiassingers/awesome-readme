@@ -7,10 +7,10 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 ## Examples
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-- [athityakumar/colorls](https://github.com/athityakumar/colorls) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
 - [angular-medellin/meetup](https://github.com/angular-medellin/meetup) - Project banner. Badges for stats. Well placed emoticons. Contributor's photos.
+- [athityakumar/colorls](https://github.com/athityakumar/colorls) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
 - [Day8/re-frame](https://github.com/Day8/re-frame) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
 - [iharsh234/WebApp](https://github.com/iharsh234/WebApp) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
