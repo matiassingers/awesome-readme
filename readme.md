@@ -15,7 +15,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [Day8/re-frame](https://github.com/Day8/re-frame) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
 - [iharsh234/WebApp](https://github.com/iharsh234/WebApp) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
-- [junedomingo/react-native-rename](https://github.com/junedomingo/react-native-rename) - Rename react-native app with just one command.
+- [junedomingo/react-native-rename](https://github.com/junedomingo/react-native-rename) - Clear description. Easy installation and Usage instructions. GIF demo. Multiple badges.
 - [karan/joe](https://github.com/karan/joe) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
 - [Martinsos/edlib](https://github.com/Martinsos/edlib) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
 - [node-chat](https://github.com/IgorAntun/node-chat) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
