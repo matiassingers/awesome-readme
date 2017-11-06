@@ -14,6 +14,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [choojs/choo](https://github.com/choojs/choo) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
 - [Day8/re-frame](https://github.com/Day8/re-frame) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
 - [gitpoint/git-point](https://github.com/gitpoint/git-point) - Clear description. Project Logo. App Store logos. TOC. Clean screenshots. List of features. Detailed installation process. Landing Page.
+- [Hexworks/Zircon](https://github.com/Hexworks/zircon) - Dogfood in readme. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 - [iharsh234/WebApp](https://github.com/iharsh234/WebApp) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
 - [karan/joe](https://github.com/karan/joe) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
@@ -30,7 +31,6 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [teles/array-mixer](https://github.com/teles/array-mixer) - Clean project logo, badges. Table of contents. Contributing section. Many illustrated examples.
 - [vhesener/Closures](https://github.com/vhesener/Closures) - Project logo, cognitive funnel, animated examples. Color coordinated. Clean documentation.
 - [webpro/release-it](https://github.com/webpro/release-it) - Clear overview of project features with a demo GIF. Badges. Expandable TOC. Usage description and examples. Contribution guidelines. Detailed releases.
-- [Hexworks/Zircon](https://github.com/Hexworks/zircon) - Dogfood in readme. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 
 ## Articles
 - ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme) - *Stephen Whitmore*
