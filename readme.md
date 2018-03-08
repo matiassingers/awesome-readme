@@ -30,6 +30,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
 - [skywinder/github-changelog-generator](https://github.com/skywinder/github-changelog-generator) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
 - [teles/array-mixer](https://github.com/teles/array-mixer) - Clean project logo, badges. Table of contents. Contributing section. Many illustrated examples.
+- [nhnent/tui.editor](https://github.com/nhnent/tui.editor) - Project logo. Clear overview of project features with a demo GIF. Badges. TOC for easy navigation. Colorful icons in front of titles.
 - [vhesener/Closures](https://github.com/vhesener/Closures) - Project logo, cognitive funnel, animated examples. Color coordinated. Clean documentation.
 - [webpro/release-it](https://github.com/webpro/release-it) - Clear overview of project features with a demo GIF. Badges. Expandable TOC. Usage description and examples. Contribution guidelines. Detailed releases.
 
@@ -39,6 +40,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - ["How To Write A Readme"](http://jfhbrook.github.io/2011/11/09/readmes.html) - *Joshua Holbrook*
 - ["Readme Driven Development"](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
 - ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
+- ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://medium.freecodecamp.org/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14) - *KyuWoo Choi*
 
 ## Tools
 
