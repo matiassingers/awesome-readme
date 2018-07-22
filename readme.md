@@ -32,7 +32,8 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion) - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.
 - [shama/gaze](https://github.com/shama/gaze) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
-- [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - Clean animated screenshot. Customized call to action badge. Usage showcase. 
+- [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - Clean animated screenshot. Customized call to action badge. Usage showcase.
+- [sr6033/lterm](https://github.com/sr6033/lterm) - Clean logo using characters. Brief updates on development. Detailed contribution guidelines. Contribution suggestions.
 - [teles/array-mixer](https://github.com/teles/array-mixer) - Clean project logo, badges. Table of contents. Contributing section. Many illustrated examples.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - Project logo. Useful badges and links (website, docs, demo). Screenshot. Feature list. Step-by-step instructions for installation, development, and testing. Link to the contributing guide. Good mobile summary.
 - [vhesener/Closures](https://github.com/vhesener/Closures) - Project logo, cognitive funnel, animated examples. Color coordinated. Clean documentation.
