@@ -7,6 +7,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 ## Examples
 
+- [after-dark](https://git.habd.as/comfusion/after-dark) - RDD, progressive disclosure, easy install, JIT learning.
 - [ai/size-limit](https://github.com/ai/size-limit) - Project logo, clear description, screenshot, step-by-step installing instructions.
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
