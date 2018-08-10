@@ -55,6 +55,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 - [Common Readme](https://github.com/noffle/common-readme) - A common readme style for Node. Includes a guide and a readme generator.
 - [Feedmereadmes](https://github.com/lappleapple/feedmereadmes) - README editing and project analysis/feedback.
+- [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
 - [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
 - [README best practices](https://github.com/jehna/readme-best-practices) - A place to copy-paste your README.md from
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - A CLI that generates beautiful README.md files
