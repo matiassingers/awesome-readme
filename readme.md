@@ -66,6 +66,7 @@ Embedding an animated gif in your README quickly demonstrates what your project 
 - [LICEcap](https://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features
 - [Recordit](http://recordit.co/) - **FREE** - Simple, clean UI, but auto-uploads to [recordit.co](http://recordit.co)
 - [ttystudio](https://github.com/chjj/ttystudio) - **FREE** - For commandline tools, a terminal-to-gif recorder minus the headaches.
+- [Gifski](https://github.com/sindresorhus/gifski-app) - **FREE** - More vivid colors than the rest, but still keep size low
 
 ## Get Feedback
 
