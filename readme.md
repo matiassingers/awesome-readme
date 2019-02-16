@@ -56,6 +56,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [README best practices](https://github.com/jehna/readme-best-practices) - A place to copy-paste your README.md from
 - [Standard Readme](https://github.com/RichardLitt/standard-readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md) - Simple template to help you cover all the basics.
+- [README generator](https://github.com/andreasbm/readme) - A simple tool to automatically generate pretty README files.
 
 ## Creating GIFs
 
