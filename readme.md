@@ -38,6 +38,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - Project logo. Useful badges and links (website, docs, demo). Screenshot. Feature list. Step-by-step instructions for installation, development, and testing. Link to the contributing guide. Good mobile summary.
 - [vhesener/Closures](https://github.com/vhesener/Closures) - Project logo, cognitive funnel, animated examples. Color coordinated. Clean documentation.
 - [webpro/release-it](https://github.com/webpro/release-it) - Clear overview of project features with a demo GIF. Badges. Expandable TOC. Usage description and examples. Contribution guidelines. Detailed releases.
+- [Gymmasssorla/anevicon](https://github.com/Gymmasssorla/anevicon) - A minimalistic project overview, an animated terminal demonstration and a couple of badges.
 
 ## Articles
 
