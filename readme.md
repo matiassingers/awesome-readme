@@ -51,7 +51,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
 - ["Readme Driven Development"](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
 - ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
-- ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://medium.freecodecamp.org/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14) - *KyuWoo Choi*
+- ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - *KyuWoo Choi*
 
 ## Tools
 
@@ -71,10 +71,10 @@ Embedding an animated gif in your README quickly demonstrates what your project 
 - [Gifox](https://gifox.io) - **$4.99** - Cleanest UI, hotkeys, lots of advanced features
 - [Giphy Capture](https://giphy.com/apps/giphycapture) - **FREE** - Easy to upload to giphy.com, slightly annoying UX.
 - [LICEcap](https://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features
-- [Recordit](http://recordit.co/) - **FREE** - Simple, clean UI, but auto-uploads to [recordit.co](http://recordit.co)
+- [Recordit](https://recordit.co/) - **FREE** - Simple, clean UI, but auto-uploads to [recordit.co](https://recordit.co/)
 - [Peek](https://github.com/phw/peek) - **FREE** - Simple and easy to use for Linux users.
 - [ttystudio](https://github.com/chjj/ttystudio) - **FREE** - For commandline tools, a terminal-to-gif recorder minus the headaches.
-- [Gifski](https://github.com/sindresorhus/gifski-app) - **FREE** - More vivid colors than the rest, but still keep size low
+- [Gifski](https://github.com/sindresorhus/Gifski) - **FREE** - More vivid colors than the rest, but still keep size low
 
 ## Get Feedback
 
