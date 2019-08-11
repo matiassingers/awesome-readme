@@ -43,7 +43,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - Project logo. Useful badges and links (website, docs, demo). Screenshot. Feature list. Step-by-step instructions for installation, development, and testing. Link to the contributing guide. Good mobile summary.
 - [vhesener/Closures](https://github.com/vhesener/Closures) - Project logo, cognitive funnel, animated examples. Color coordinated. Clean documentation.
 - [release-it/release-it](https://github.com/release-it/release-it) - Clear overview of project features with a demo GIF. Badges. Expandable TOC. Usage description and examples. Contribution guidelines. Detailed releases.
-- [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select) - Clear readme with GIF screenshot for quick demo. Multiple badges, concsie ToC, online playground, storybook, detailed description and more.
+- [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select) - Clear readme with GIF screenshot for quick demo. Multiple badges, concise ToC, online playground, storybook, detailed description and more.
 
 
 
