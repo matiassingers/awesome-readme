@@ -56,6 +56,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - ["Readme Driven Development"](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
 - ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
 - ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - *KyuWoo Choi*
+- ["How to write a kickass README"](https://dev.to/scottydocs/how-to-write-a-kickass-readme-5af9) - *scottydocs*
 
 ## Tools
 
