@@ -13,7 +13,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant#readme) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
 - [ngcolombia/medellin](https://github.com/ngcolombia/medellin#readme) - Project banner. Badges for stats. Well placed emoticons. Contributor's photos.
-- [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Rich Markdown functions, modern layout, clear description and compliant with the recommended community standards.
+- [ArmynC/ArminC-Template](https://github.com/ArmynC/ArminC-Template#readme) - Rich Markdown functions, modern layout, clear description and compliant with the recommended community standards.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls#readme) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
 - [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme) - Project Banner. Badges. Easy navigation.
 - [choojs/choo](https://github.com/choojs/choo#readme) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
