@@ -15,6 +15,8 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [ngcolombia/medellin](https://github.com/ngcolombia/medellin#readme) - Project banner. Badges for stats. Well placed emoticons. Contributor's photos.
 - [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Rich Markdown functions, modern layout, clear description and compliant with the recommended community standards.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls#readme) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
+- [bookmarks](https://github.com/CodepediaOrg/bookmarks#readme) - Collection of links to public dev bookmarks from [Ab-testing](https://github.com/CodepediaOrg/bookmarks/blob/master/tagged/ab-testing.md) to [Zsh](https://github.com/CodepediaOrg/bookmarks/blob/master/tagged/zsh.md). 
+- [bookmarks.dev](https://github.com/CodepediaOrg/bookmarks.dev#readme) - Project description with supporting links. GIF. Clean screenshots. Simple install instructions for both frontend and backend. 
 - [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme) - Project Banner. Badges. Easy navigation.
 - [choojs/choo](https://github.com/choojs/choo#readme) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
 - [Day8/re-frame](https://github.com/Day8/re-frame#readme) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
