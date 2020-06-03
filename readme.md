@@ -82,6 +82,7 @@ Embedding an animated gif in your README quickly demonstrates what your project 
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - **FREE** - Open source, customizable UI and easily editable GIFs, easy to get started.
 - [ttystudio](https://github.com/chjj/ttystudio#readme) - **FREE** - For commandline tools, a terminal-to-gif recorder minus the headaches.
 - [Gifski](https://github.com/sindresorhus/Gifski#readme) - **FREE** - More vivid colors than the rest, but still keep size low
+- [ShareX](https://github.com/ShareX/ShareX) - **FREE** - Open source, simple and easy to use. Uses keyboard shortcuts for fast recording
 
 ## Get Feedback
 
