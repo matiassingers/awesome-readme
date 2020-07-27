@@ -29,6 +29,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [nhn/tui.editor](https://github.com/nhn/tui.editor#readme) - Project logo. Clear overview of project features with a demo GIF. Badges. TOC for easy navigation. Colorful icons in front of titles.
 - [node-chat](https://github.com/IgorAntun/node-chat#readme) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
 - [NSRare/NSGIF](https://github.com/NSRare/NSGIF#readme) - Project logo. GIF Demo. Usage artwork. Usage code samples.
+- [KartikChugh/Otto](https://github.com/KartikChugh/Otto#readme) - Extensive GIF demos. Quick Start examples. High-level overview of project, followed by detailed breakdown. Project logo. Landing page.
 - [sidneycadot/oeis](https://github.com/sidneycadot/oeis#readme) - Overview. List of required dependencies. Complete list of all files in the repo and what their function is. Visual graph of how it all ties together.
 - [php-censor/php-censor](https://github.com/php-censor/php-censor#readme) - Multiple badges, project logo, screenshots, step-by-step installing and upgrading instructions, TOC for easy navigation.
 - [Rebilly/redoc](https://github.com/Redocly/redoc#readme) - Multiple badges, project logo, live demo link, GIF-animations of the key features, TL;DR usage.
