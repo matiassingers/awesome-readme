@@ -69,6 +69,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
 - [Standard Readme](https://github.com/RichardLitt/standard-readme#readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - Simple template to help you cover all the basics.
+- [jsx-readme](https://github.com/dbartholomae/jsx-readme) - A JSX based library to automagically generate and update README files.
 
 ## Creating GIFs
 
