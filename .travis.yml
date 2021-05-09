@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot readme.md
+  - awesome_bot readme.md -w https://recordit.co/
