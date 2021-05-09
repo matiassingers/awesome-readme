@@ -64,12 +64,12 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [Common Readme](https://github.com/noffle/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
 - [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - README editing and project analysis/feedback.
 - [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
+- [jsx-readme](https://github.com/dbartholomae/jsx-readme) - A JSX based library to automagically generate and update README files.
 - [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
 - [README best practices](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
 - [Standard Readme](https://github.com/RichardLitt/standard-readme#readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - Simple template to help you cover all the basics.
-- [jsx-readme](https://github.com/dbartholomae/jsx-readme) - A JSX based library to automagically generate and update README files.
 
 ## Creating GIFs
 
