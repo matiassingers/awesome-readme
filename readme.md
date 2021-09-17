@@ -83,6 +83,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [READMINE](https://github.com/mhucka/readmine) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
 - [Standard Readme](https://github.com/RichardLitt/standard-readme#readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - Simple template to help you cover all the basics.
+- [StackEdit](https://stackedit.io/) - A user friendly online editor that allows you to quickly customize all the sections you need for your project's readme.
 
 ## Creating GIFs
 
