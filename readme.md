@@ -83,6 +83,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - README editing and project analysis/feedback.
 - [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
 - [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
+- [PageSpeed Insights scores to SVG](https://github.com/Correia-jpv/pagespeed-insights-to-svg#readme) - Generate dynamic SVGs of your websites' PageSpeed Insights scores and embed them on your README.
 - [README best practices](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
 - [Readme.so](https://readme.so/) - A simple editor that allows you to quickly add and customize all the sections you need for your project's readme.
