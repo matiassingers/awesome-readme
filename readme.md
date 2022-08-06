@@ -18,6 +18,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk#readme) - Description of the project and use cases with explanation graphics. Build with multiple tools and integration instructions, reference to the guidance to create the first project. Examples. Project logo. Multiple badges. Headlines with graphics. TOC for easy navigation.
 - [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/#readme) - Rich Markdown functions, modern layout, clear description and compliant with the recommended community standards.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls#readme) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
+- [bczsalba/PyTermGUI](https://github.com/bczsalba/PyTermGUI) - This Python project uses [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme), a tool to dynamically transfer fancy Python Package README.mds to PyPi.org
 - [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig#readme) - Project Banner. Badges. Easy navigation.
 - [choojs/choo](https://github.com/choojs/choo#readme) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
 - [chroline/well_app](https://github.com/chroline/well_app#readme) - Features attention-grabbing project thumbnail with clean badges, as well as download information and quick navigation links. Organized into multiple descriptive sections, each of which have a title with a yellow emoji. Includes details about the project itself, as well as the technologies used and how to contribute.
@@ -88,6 +89,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - README editing and project analysis/feedback.
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
 - [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
+- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) - Because your ✨fancy✨ Python project deserves a ✨fancy✨ PyPI landing page.
 - [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
 - [README best practices](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
