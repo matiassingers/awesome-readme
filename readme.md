@@ -89,7 +89,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - README editing and project analysis/feedback.
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
 - [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
-- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) - Because your ✨fancy✨ Python project deserves a ✨fancy✨ PyPI landing page.
+- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) - Because your fancy Python project deserves a fancy PyPI landing page. This tool allows you to dynamically assemble a PyPi README from other sources within a Python application.
 - [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
 - [README best practices](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
