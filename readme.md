@@ -89,6 +89,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 ## Tools
 
+- [AI Collection][https://github.com/ai-collection/ai-collection#readme] - A Collection of Awesome Generative AI Applications.
 - [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [Common Readme](https://github.com/hackergrrl/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
 - [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - README editing and project analysis/feedback.
