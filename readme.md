@@ -79,9 +79,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [thelounge/thelounge](https://github.com/thelounge/thelounge#readme) - Project logo. Useful badges and links (website, docs, demo). Screenshot. Feature list. Step-by-step instructions for installation, development, and testing. Link to the contributing guide. Good mobile summary.
 - [themerdev/themer](https://github.com/themerdev/themer#readme) - Project logo. Visual description (flowchart) of what the project does. Build badges. TOC. Demo screenshot. Concise install and usage sections, including common workflows. Colorful previews.
 - [vhesener/Closures](https://github.com/vhesener/Closures#readme) - Project logo, cognitive funnel, animated examples. Color coordinated. Clean documentation.
-- [xnbox/DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
-- [zenml-io/zenml](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst feature list. Quickstart example.
-
+- [xnbox/DeepfakeHTTP](https://github.com/xnbox/DeepfakeH
 
 ## Articles
 
@@ -126,15 +124,6 @@ Embedding an animated gif in your README quickly demonstrates what your project 
 ## Get Feedback
 
 - [feedmereadmes](https://github.com/LappleApple/feedmereadmes#readme) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
-- [maintainer.io](https://maintainer.io/) - Free README standardization and feedback, if you click on 'Book an audit'.
+- [maintainer.io](https://maintainers](https://mts.io) has waived all copyright and related or neighboring rights to this work.
 
-## Contribute
-
-Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Matias Singers](https://mts.io) has waived all copyright and related or neighboring rights to this work.
+Suje changed readme.md
