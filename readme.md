@@ -93,7 +93,6 @@ This can also be a dedicated section of your README.md files.
 - [GitLab](https://gitlab.com/gitlab-org/charts/gitlab/-/tree/master/doc/architecture) - Calls out design decisions.
 - [Linux cryptography](https://github.com/torvalds/linux/blob/master/Documentation/crypto/architecture.rst) - Calls out different types of components, provides searchable areas, calls out invariants of different components, and describes structure with diagrams.
 - [Neovim](https://github.com/neovim/neovim/blob/master/src/nvim/README.md) - Describes the main processes/lifecycle.
-- [Next.js](https://github.com/vercel/next.js/blob/canary/docs/04-architecture/index.mdx) - Breaks architecture into separate files, calls out important dependencies.
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Design) - Describes the initialization process, calls out environment requirements.
 - [Redis](https://github.com/redis/redis/blob/unstable/README.md) - Good source code map. Overviews of key files. Good use of documentation comments in-code rather than inline comments.
 - [rust-analyser](https://github.com/rust-lang/rust/blob/master/src/tools/rust-analyzer/docs/dev/architecture.md) - Good diagrams, describes entry points and source organisation, discusses architecture considerations.
