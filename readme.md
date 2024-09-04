@@ -121,7 +121,7 @@ This can also be a dedicated section of your README.md files.
 
 ## Presentations
 
-- ["Build a Better README"](https://www.youtube.com/watch?v=vfZuFo1gTB8&list=PLA9_Hq3zhoFw6patag2gZcDjpugDLBStL&index=31) - *Jason A. Crome*
+- ["Build a Better README"](https://www.youtube.com/watch?v=vfZuFo1gTB8&list=PLA9_Hq3zhoFw6patag2gZcDjpugDLBStL&index=31) - *Jason A. Crome* at *The Perl and Raku Conference* in 2024 in Las Vegas, Nevada, USA.
 
 ## Tools
 
