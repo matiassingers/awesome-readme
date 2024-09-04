@@ -120,6 +120,10 @@ This can also be a dedicated section of your README.md files.
     - ["ARCHITECTURE.md"](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html) - *Alex Kladov*
     - ["Two open source projects with great documentation"](https://johnjago.com/great-docs/) - *John Jago*
 
+## Presentations
+
+- ["Build a Better README"](https://www.youtube.com/watch?v=vfZuFo1gTB8&list=PLA9_Hq3zhoFw6patag2gZcDjpugDLBStL&index=31) - *Jason A. Crome* at *The Perl and Raku Conference* in 2024 in Las Vegas, Nevada, USA.
+
 ## Tools
 
 - [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
