@@ -10,6 +10,7 @@ images, screenshots, GIFs, text formatting, etc.
 ## Examples
 
 - [Abblix/Oidc.Server](https://github.com/Abblix/Oidc.Server#readme) - Project banner with informative badges. Clear project description, certification details with informative tables, and unicode icons. Detailed installation guide, links to comprehensive documentation and a getting started guide, and licensing information. Easy navigation with a table of contents for quick access to all sections.
+- [adamlui/minify.js](https://github.com/adamlui/minify.js#readme) - Clear description, informative shields, elucidative screenshot, multi-purpose installation instructions, command line examples for different use cases, table of CLI options, API usage instructions, method parameter tables, MIT license text, links to related utillities.
 - [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide#readme) - Badges, project GIF, concise description, quick links, stepwise installation instructions.
