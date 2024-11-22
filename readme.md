@@ -150,7 +150,6 @@ Embedding an animated gif in your README quickly demonstrates what your project 
 - [Giphy Capture](https://giphy.com/apps/giphycapture) - **FREE** - Easy to upload to giphy.com, with a slightly annoying UX.
 - [LICEcap](https://www.cockos.com/licecap/) - **FREE** - Less intuitive, but with more features.
 - [Peek](https://github.com/phw/peek#readme) - **FREE** - Simple and easy to use for Linux users.
-- [Recordit](https://recordit.co/) - **FREE** - Simple, clean UI, but it auto-uploads to Recordit.
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - **FREE** - Open source, with a customizable UI and easily editable GIFs, easy to get started.
 - [terminalizer](https://github.com/faressoft/terminalizer) - **FREE** - Record your terminal and generate animated GIF images or share a web player.
 - [ttystudio](https://github.com/chjj/ttystudio#readme) - **FREE** - For command-line tools, a terminal-to-GIF recorder minus the headaches.
