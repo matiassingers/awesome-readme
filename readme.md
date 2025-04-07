@@ -8,7 +8,7 @@ Elements in beautiful READMEs include, but are not limited to:
 images, screenshots, GIFs, text formatting, etc.
    
 ## Examples
-
+- [A-coderr/A-coderr](https://github.com/A-coderr/A-coderr#readme) - Custom GitHub profile view counter, a warm introduction with fun visuals, and direct links to social media. Dynamic GitHub stats, badge-based highlights for all key tech skills, and a call-to-action section. Clean layout, engaging language, and thoughtful organization.
 - [Abblix/Oidc.Server](https://github.com/Abblix/Oidc.Server#readme) - Project banner with informative badges. Clear project description, certification details with informative tables, and unicode icons. Detailed installation guide, links to comprehensive documentation and a getting started guide, and licensing information. Easy navigation with a table of contents for quick access to all sections.
 - [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
