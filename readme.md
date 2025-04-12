@@ -94,7 +94,6 @@ images, screenshots, GIFs, text formatting, etc.
 - [yvann-ba/ft_transcendence](https://github.com/yvann-ba/ft_transcendence#readme) - Minimalist Project banner, clear GIF gallery in table layout. Colorful architecture diagram. Clear tech stack description. Team section with contributor avatars.
 - [zenml-io/zenml](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst the feature list. Quickstart example.
 
-
 ## Architecture Examples
 A good ARCHITECTURE.md file helps developers understand how and where to make changes, whether they are new to a project or not.
 
