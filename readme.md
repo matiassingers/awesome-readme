@@ -91,6 +91,7 @@ images, screenshots, GIFs, text formatting, etc.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge#readme) - Project logo. Useful badges and links (website, docs, demo). Screenshot. Feature list. Step-by-step instructions for installation, development, and testing. Link to the contribution guide. Good mobile summary.
 - [themerdev/themer](https://github.com/themerdev/themer#readme) - Project logo. Visual description (flowchart) of what the project does. Build badges. TOC. Demo screenshot. Concise installation and usage sections, including common workflows. Colorful previews.
 - [vhesener/Closures](https://github.com/vhesener/Closures#readme) - Project logo, cognitive funnel, animated examples. Color-coordinated. Clean documentation.
+- [voltagent/voltagent](https://github.com/voltagent/voltagent#readme) - Clean project logo. Useful badges and links (website, docs, demo). Screenshot. Clear code examples amongst the feature list. Quickstart example.
 - [xnbox/DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP#readme) - Original hero section. Clear navigation. Minimalist design. Appendices.
 - [yvann-ba/ft_transcendence](https://github.com/yvann-ba/ft_transcendence#readme) - Minimalist Project banner, clear GIF gallery in table layout. Colorful architecture diagram. Clear tech stack description. Team section with contributor avatars.
 - [zenml-io/zenml](https://github.com/zenml-io/zenml#readme) - Clean project logo. Useful TOC. Clear code examples amongst the feature list. Quickstart example.
