@@ -70,6 +70,7 @@ images, screenshots, GIFs, text formatting, etc.
 - [release-it/release-it](https://github.com/release-it/release-it#readme) - Clear overview of project features with a demo GIF. Badges. Expandable TOC. Usage description and examples. Contribution guidelines. Detailed releases.
 - [rstacruz/hicat](https://github.com/rstacruz/hicat#readme) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts#readme) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
+- [s009900/s009900](https://github.com/s009900/s009900) - Nice header at top. Animated emojis. Automated stats. Latest followers, metrics, trophies, charts, languages, a wordcloud, and cool stats. Neat and clean. Good template.
 - [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion#readme) - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.
 - [serpro69/kotlin-faker](https://github.com/serpro69/kotlin-faker#readme) - Project logo. Badges. Concise description and clear getting-started instructions with a link to the full documentation website. Test, build and contributing guidelines. Licence info.
 - [shama/gaze](https://github.com/shama/gaze#readme) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
