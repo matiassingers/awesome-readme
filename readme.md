@@ -132,6 +132,7 @@ This can also be a dedicated section of your README.md files.
 - [Common Readme](https://github.com/hackergrrl/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
 - [Github Licenses Stats](https://github.com/lheintzmann1/github-licenses-stats#readme) - This tool generates a dynamic SVG that shows the top licenses used across your GitHub repositories.
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
+- [GPRM](https://github.com/VishwaGauravIn/github-profile-readme-maker) - A tool to generate a customized GitHub Profile README with a modern UI.
 - [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
 - [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
 - [README best practices](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
