@@ -326,17 +326,6 @@ const professionalHighlights = {
 
 > **"Armed with perpetual learning and technical mastery, I craft innovative solutions that elevate efficiency and transform mission-critical projects."**
 
-### What Drives Me:
-
-- ✅ **Innovation** - Pioneering cutting-edge AI and multi-agent systems
-- ✅ **Excellence** - Delivering award-winning solutions and exceptional results
-- ✅ **Continuous Learning** - Expanding expertise in emerging technologies
-- ✅ **Problem Solving** - Tackling complex challenges with creative approaches
-- ✅ **Team Impact** - Empowering teams through tools and knowledge sharing
-- ✅ **Quality** - Writing clean, maintainable, and scalable code
-
----
-
 ## 🌍 Languages
 
 <p align="center">
@@ -347,17 +336,6 @@ const professionalHighlights = {
 
 ---
 
-## 📚 Currently Learning & Exploring
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Advanced_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js_Ecosystem-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Spring_Boot_Advanced-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Physics-FF6B6B?style=for-the-badge&logo=atom&logoColor=white" alt="Physics"/>
-  <img src="https://img.shields.io/badge/Advanced_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
-</p>
-
----
 
 ## 📫 Let's Connect & Collaborate!
 
@@ -403,7 +381,6 @@ I'm always open to interesting conversations, collaboration opportunities, and i
 
 <div align="center">
 
-### ⭐ From [Aiman Younis](https://github.com/aimanyounises1) | Building the future with AI and Innovation 🚀
 
 **"Innovation distinguishes between a leader and a follower."** - Steve Jobs
 
