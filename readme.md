@@ -177,3 +177,5 @@ Please read the [contribution guidelines](contributing.md) first.
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Matias Singers](https://mts.io) has waived all copyright and related or neighboring rights to this work.
+- [flutter/awesome-flutter](https://github.com/Solido/awesome-flutter#readme) - Well-organized list with icons, sections, badges, code examples, and detailed categorized documentation. Includes community-driven contributions, learning resources, and a clean structure that improves navigation.
+
