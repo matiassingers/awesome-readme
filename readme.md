@@ -14,6 +14,7 @@ images, screenshots, GIFs, text formatting, etc.
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup#readme) - Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold#readme) - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
+- [alexcerezo/linkedin-cards](https://github.com/alexcerezo/linkedin-cards#readme) - Project logo. Clear description. Demo screenshot. Simple installation and usage instructions. Feature list.
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify#readme) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
 - [amplication/amplication](https://github.com/amplication/amplication#readme) - Clear project logo. Brief explanation. All features explained. Clean documentation. Useful links (website, docs, discord). List of contributors with their pictures and usernames.
 - [ankitwasankar/mftool-java](https://github.com/ankitwasankar/mftool-java#readme) - Project logo with a short display of what can be achieved with it, TOC for easy navigation, important badges, clean installation guide, and multiple code snippets showing how to use the functionality.
@@ -135,6 +136,7 @@ This can also be a dedicated section of your README.md files.
 - [Github Licenses Stats](https://github.com/lheintzmann1/github-licenses-stats#readme) - This tool generates a dynamic SVG that shows the top licenses used across your GitHub repositories.
 - [GitHub PR Stats](https://github.com/f14XuanLv/github-pr-stats#readme) - Dynamic SVG tables displaying your GitHub pull requests with dual modes: detailed PR list and repository aggregate statistics. Features status filtering, star-based sorting, and customizable fields.
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
+- [GitHub LinkedIn Cards](https://github.com/alexcerezo/linkedin-cards#readme) - A tool to generate dynamic LinkedIn profile cards for your GitHub README.
 - [GPRM](https://github.com/VishwaGauravIn/github-profile-readme-maker) - A tool to generate a customized GitHub Profile README with a modern UI.
 - [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
 - [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
