@@ -143,6 +143,7 @@ This can also be a dedicated section of your README.md files.
 - [README best practices](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
 - [Readme Forge](https://readme-forge.github.io/) - A component-based README generator to create stunning READMEs with ease. Features an extensive and versatile README templates library.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
+- [readmegen-ai](https://github.com/fraygeist/readmegen-ai) - AI-powered README generator — analyzes your codebase and generates comprehensive README files.
 - [README Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Perfect for profile READMEs.
 - [READMINE](https://github.com/mhucka/readmine) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
 - [StackEdit](https://stackedit.io/) - A user-friendly online editor that allows you to quickly customize all the sections you need for your project's readme.
