@@ -1,4 +1,4 @@
-
+﻿
 # Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > A curated list of awesome READMEs
 > <img src="icon.png" align="right"/>
@@ -35,6 +35,7 @@ images, screenshots, GIFs, text formatting, etc.
 - [EduardaSRBastos/my-essential-toolbox](https://github.com/EduardaSRBastos/my-essential-toolbox#readme) - Project screenshot and informative badges. Clear project description. TOC for easy navigation. Well-structured sections detailing included tools by category. Performance score with screenshots. Contribution guidelines and license information.
 - [emalderson/thephish](https://github.com/emalderson/ThePhish#readme) - Project logo, informative badges, useful TOC, clear description, screenshots, step-by-step installation and configuration guide, contributor guidelines, code of conduct, UML diagrams, coherent tags, issue and pull request templates, well-documented and well-commented code, examples.
 - [eylon-44/Buzz-OS](https://github.com/eylon-44/Buzz-OS#readme) - Project logo. Colorful emojis. GIFs for project demo, examples, and instructions. Fast and simple copy-paste instructions for installation and usage. Pretty table of contents. A quick overview of project's main features.
+- [FileShot/FileShotZKE](https://github.com/FileShot/FileShotZKE#readme) - Well-structured security documentation. Clear API reference with code examples. Detailed how-it-works section covering key derivation, AES-256-GCM encryption, and upload pipeline. Browser support table and security policy.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator#readme) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
 - [gitpoint/git-point](https://github.com/gitpoint/git-point#readme) - Clear description. Project Logo. App Store logos. TOC. Clean screenshots. List of features. Detailed installation process. Landing Page.
 - [gofiber/fiber](https://github.com/gofiber/fiber#readme) - Clean project logo. Useful badges and links (languages switcher, code style, test cover, docs, Discord channel). Clear description of what the project does with quickstart, benchmark charts, well-documented code examples (with the ability to hide long content), project philosophy notes ("the why of project"), tables with project addons, list of contributors, star growth statistics, and more.
@@ -55,7 +56,7 @@ images, screenshots, GIFs, text formatting, etc.
 - [L0garithmic/FastColabCopy](https://github.com/L0garithmic/FastColabCopy#readme) - Project logo. Minimalist description. Badges. GIF demo. About The Project. How To Use. Examples. Credits. Additional Examples.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat#readme) - Modern badge design. Clear feature introductions accompanied by visual design graphics. Ecosystem introduction. Descriptions of project characteristics and development methods. Contributors section.
 - [lobehub/sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme#readme) - Feature list and demo. I18n support. Navigation with Header and TOC. Clear instructions.
-- [ma-shamshiri/Human-Activity-Recognition](https://github.com/ma-shamshiri/Human-Activity-Recognition#readme) - Beautiful table of contents. Project logo. Animated project banner. Complete project folder structure. Clear description of what the project does. Nice contributors’ section. Easy navigation.
+- [ma-shamshiri/Human-Activity-Recognition](https://github.com/ma-shamshiri/Human-Activity-Recognition#readme) - Beautiful table of contents. Project logo. Animated project banner. Complete project folder structure. Clear description of what the project does. Nice contributorsâ€™ section. Easy navigation.
 - [ma-shamshiri/Pacman-Game](https://github.com/ma-shamshiri/Pacman-Game#readme) - Beautiful table of contents. Project logo. Animated project banner. Suitable GIFs to display each part of the project. Complete list of project files in the repo along with their function. Complete execution instruction.
 - [ma-shamshiri/Spam-Detector](https://github.com/ma-shamshiri/Spam-Detector#readme) - Complete project file description. Project logo. Animated project banner. Concise project description. Clear execution instruction.
 - [MananTank/radioactive-state](https://github.com/MananTank/radioactive-state#readme) - Badges (version, downloads, coverage, size), Twitter Intent, Project Logo, Feature list, Motivation, Installation, Example with GIFs, Emojis, Collapsible Sections, Live Demos, API detailed usage, FAQs, Chat link.
@@ -120,7 +121,7 @@ This can also be a dedicated section of your README.md files.
 - ["Elegant READMEs"](https://www.yegor256.com/2019/04/23/elegant-readme.html) - *Yegor Bugayenko*
 - ["How To Write A Great README"](https://thoughtbot.com/blog/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
 - ["Readme Driven Development"](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
-- ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
+- ["Top ten reasons why I wonâ€™t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
 - ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - *KyuWoo Choi*
 - *Architecture*
     - ["ARCHITECTURE.md"](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html) - *Alex Kladov*
