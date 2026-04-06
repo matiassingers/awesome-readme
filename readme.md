@@ -7,6 +7,7 @@ Elements in beautiful READMEs include, but are not limited to:
 
 images, screenshots, GIFs, text formatting, etc.
    
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts with comprehensive README documentation for multi-agent orchestration and development workflows. MIT licensed.
 ## Examples
 
 - [Abblix/Oidc.Server](https://github.com/Abblix/Oidc.Server#readme) - Project banner with informative badges. Clear project description, certification details with informative tables, and unicode icons. Detailed installation guide, links to comprehensive documentation and a getting started guide, and licensing information. Easy navigation with a table of contents for quick access to all sections.
