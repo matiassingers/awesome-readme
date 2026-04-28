@@ -138,6 +138,7 @@ This can also be a dedicated section of your README.md files.
 ## Tools
 
 - [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
+- [ci-doctor](https://depmedicdev-byte.github.io/scan-badge.html#readme) - Daily-refreshed CI hygiene badge for your repo. Embeddable shields.io-style SVG that shows current ci-doctor findings (errors, warnings).
 - [Common Readme](https://github.com/hackergrrl/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
 - [Github Licenses Stats](https://github.com/lheintzmann1/github-licenses-stats#readme) - This tool generates a dynamic SVG that shows the top licenses used across your GitHub repositories.
 - [GitHub PR Stats](https://github.com/f14XuanLv/github-pr-stats#readme) - Dynamic SVG tables displaying your GitHub pull requests with dual modes: detailed PR list and repository aggregate statistics. Features status filtering, star-based sorting, and customizable fields.
@@ -147,8 +148,8 @@ This can also be a dedicated section of your README.md files.
 - [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
 - [README best practices](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
 - [Readme Forge](https://readme-forge.github.io/) - A component-based README generator to create stunning READMEs with ease. Features an extensive and versatile README templates library.
-- [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
 - [README Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Perfect for profile READMEs.
+- [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
 - [READMINE](https://github.com/mhucka/readmine) - A thorough, clear and self-describing README file template for software projects; copy it and edit it as needed.
 - [StackEdit](https://stackedit.io/) - A user-friendly online editor that allows you to quickly customize all the sections you need for your project's readme.
 - [Standard Readme](https://github.com/RichardLitt/standard-readme#readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
@@ -183,8 +184,3 @@ Please read the [contribution guidelines](contributing.md) first.
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Matias Singers](https://mts.io) has waived all copyright and related or neighboring rights to this work.
-
-
-## Badges
-
-- [ci-doctor](https://depmedicdev-byte.github.io/scan-badge.html) - Daily-refreshed CI hygiene badge for your repo. Shows current ci-doctor findings (errors, warnings) in shields.io style.
