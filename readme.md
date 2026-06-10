@@ -1,4 +1,5 @@
 ﻿
+
 # Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > A curated list of awesome READMEs
 > <img src="icon.png" align="right"/>
@@ -6,7 +7,7 @@
 Elements in beautiful READMEs include, but are not limited to:
 
 images, screenshots, GIFs, text formatting, etc.
-   
+
 ## Examples
 
 - [Abblix/Oidc.Server](https://github.com/Abblix/Oidc.Server#readme) - Project banner with informative badges. Clear project description, certification details with informative tables, and unicode icons. Detailed installation guide, links to comprehensive documentation and a getting started guide, and licensing information. Easy navigation with a table of contents for quick access to all sections.
@@ -84,10 +85,10 @@ images, screenshots, GIFs, text formatting, etc.
 - [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion#readme) - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.
 - [serpro69/kotlin-faker](https://github.com/serpro69/kotlin-faker#readme) - Project logo. Badges. Concise description and clear getting-started instructions with a link to the full documentation website. Test, build and contributing guidelines. Licence info.
 - [shama/gaze](https://github.com/shama/gaze#readme) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
-- [shriyanyamali/JurisMercatus](https://github.com/shriyanyamali/JurisMercatus#readme) - Project logo with badges and how to use GIF. Project purpose and development process. Simple but detailed installation instructions. License and attribution sections. 
+- [shriyanyamali/JurisMercatus](https://github.com/shriyanyamali/JurisMercatus#readme) - Project logo with badges and how to use GIF. Project purpose and development process. Simple but detailed installation instructions. License and attribution sections.
 - [sidneycadot/oeis](https://github.com/sidneycadot/oeis#readme) - Overview. List of required dependencies. Complete list of all files in the repo and what their function is. Visual graph of how it all ties together.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres#readme) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
-- [skydio/revup](https://github.com/Skydio/revup#readme) - Project logo. Animated GIF demo + GIFs for major stages of the step-by-step tutorial. Concise explanation, installation instructions, and contribution section. 
+- [skydio/revup](https://github.com/Skydio/revup#readme) - Project logo. Animated GIF demo + GIFs for major stages of the step-by-step tutorial. Concise explanation, installation instructions, and contribution section.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app#readme) - Clean animated screenshot. Customized call to action badge. Usage showcase.
 - [sr6033/lterm](https://github.com/sr6033/lterm#readme) - Clean logo using characters. Brief updates on development. Detailed contribution guidelines. Contribution suggestions.
 - [Stack-in-a-box/triumphmayflowerclub.com](https://github.com/Stack-in-a-box/triumphmayflowerclub.com#readme) - Stands-out because, while only a simple website, it is presented as a very open project for lesser-experienced developers to cut their teeth on, with a friendly, inclusive tone and accessible setup instructions. Includes many common elements found in other beautiful READMEs.
@@ -156,7 +157,7 @@ This can also be a dedicated section of your README.md files.
 - [StackEdit](https://stackedit.io/) - A user-friendly online editor that allows you to quickly customize all the sections you need for your project's readme.
 - [Standard Readme](https://github.com/RichardLitt/standard-readme#readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
 - [Telegram Card](https://github.com/Malith-Rukshan/telegram-card#readme) - Dynamic preview card generator for Telegram channels, groups, and bots. Features responsive design, dark/light theme support, and displays subscriber/member/monthly users/online users counts. Perfect for GitHub profiles and portfolios.
-- [user-statistician](https://github.com/cicirello/user-statistician#readme) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes. 
+- [user-statistician](https://github.com/cicirello/user-statistician#readme) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes.
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - Simple template to help you cover all the basics.
 
 ## Creating GIFs
