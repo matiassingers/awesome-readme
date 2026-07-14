@@ -152,6 +152,7 @@ This can also be a dedicated section of your README.md files.
 - [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
 - [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
 - [README best practices](https://github.com/jehna/readme-best-practices#readme) - A place to copy-paste your README.md from
+- [README Scorecard](https://iteebz.github.io/readme-scorecard/) - Paste a public GitHub repo URL, get an instant letter grade and checklist for your README. Shareable permalink — the scorecard is the feedback.
 - [Readme Forge](https://readme-forge.github.io/) - A component-based README generator to create stunning READMEs with ease. Features an extensive and versatile README templates library.
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator#readme) - A CLI that generates beautiful README.md files
 - [README Typing SVG](https://github.com/DenverCoder1/readme-typing-svg#readme) - Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Perfect for profile READMEs.
