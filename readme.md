@@ -143,6 +143,8 @@ This can also be a dedicated section of your README.md files.
 
 ## Tools
 
+- [Pin me](https://github.com/Chintanpatel24/pinme) - Pin your repo in the README as a pinned repo list.
+- [Gitlyy](https://github.com/Chintanpatel24/gitlyy) - GitHub README stats for your profile and performance overview , with new ideas.
 - [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [Common Readme](https://github.com/hackergrrl/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
 - [Github Licenses Stats](https://github.com/lheintzmann1/github-licenses-stats#readme) - This tool generates a dynamic SVG that shows the top licenses used across your GitHub repositories.
