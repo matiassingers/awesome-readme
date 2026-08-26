@@ -8,6 +8,29 @@ Elements in beautiful READMEs include, but are not limited to:
 
 images, screenshots, GIFs, text formatting, etc.
 
+## Skill
+
+An AI agent skill (`awesome-readme/`) that distills the best practices from this list into a three-layer execution guide: **hard rules → decision framework → pattern library**.
+
+### What's inside
+
+| File | Content |
+|------|---------|
+| `SKILL.md` | Execution guide — 6-step workflow (diagnose → classify → populate → assemble → check → iterate) |
+| `references/patterns.md` | 38 reusable patterns extracted from 100+ examples in this list, each with source attribution, anti-patterns, and execution thresholds |
+| `references/badge-templates.md` | 15+ badge snippets (`style=for-the-badge`) for 9 languages, 4 license types, CI, social proof, package managers |
+| `references/ascii-templates.md` | 8 ASCII architecture diagrams (pipeline, client-server, plugin, event-driven, layered, microservices, CLI, data flow) |
+
+### Three-layer architecture
+
+- **Hard rules** — what must be done (value proposition ≤ 15 words, badge limits, Quick Start ≤ 3 steps)
+- **Decision framework** — project type × audience × maturity → path selection, plus multilingual README guidance
+- **Pattern library** — 38 patterns across 10 categories, each with: concrete做法,适用/不适用场景, source project, and execution threshold (🟢 agent can do / 🟡 needs user input / 🔴 needs human creation with agent-executable alternatives)
+
+### Use it
+
+Load `SKILL.md` in any AI agent that supports the format (WorkBuddy, Claude, Cursor, etc.) and ask it to write or improve your project's README. The agent will follow the 6-step workflow, pick patterns from the library based on your project type, and run the quality checklist before delivering.
+
 ## Examples
 
 - [Abblix/Oidc.Server](https://github.com/Abblix/Oidc.Server#readme) - Project banner with informative badges. Clear project description, certification details with informative tables, and unicode icons. Detailed installation guide, links to comprehensive documentation and a getting started guide, and licensing information. Easy navigation with a table of contents for quick access to all sections.
