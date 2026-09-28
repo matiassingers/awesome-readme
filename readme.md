@@ -61,6 +61,8 @@ images, screenshots, GIFs, text formatting, etc.
 - [IgorAntun/node-chat](https://github.com/IgorAntun/node-chat#readme) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
 - [iharsh234/WebApp](https://github.com/iharsh234/WebApp#readme) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
 - [ivanperez-keera/Yampa](https://github.com/ivanperez-keera/Yampa#readme) - Clear description. Feature list. TOC for easy navigation. Simple install instructions. Usage code samples. Project samples with GIFs and links to app stores. Documentation and publications. Clear development / contribution rules.
+- [JoyHak/MarkdownToBBCode](https://github.com/JoyHak/MarkdownToBBCode#readme) - Concise documentation. Colorful syntax conversion demonstration. Side-by-side comparison.
+- [JoyHak/QuickSwitch](https://github.com/JoyHak/QuickSwitch#readme) - Project banner. Sequential structure. Spoilers to reduce visual cluttering. Helpful icons in headers. Clickable badges and hyperlinks. GIF demo.
 - [karan/joe](https://github.com/karan/joe#readme) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
 - [kopach/karma-sabarivka-reporter](https://github.com/kopach/karma-sabarivka-reporter#readme) - Project logo. Useful badges, clear readme with screenshots for quick demo. Concise ToC.
 - [L0garithmic/FastColabCopy](https://github.com/L0garithmic/FastColabCopy#readme) - Project logo. Minimalist description. Badges. GIF demo. About The Project. How To Use. Examples. Credits. Additional Examples.
