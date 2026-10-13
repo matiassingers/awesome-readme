@@ -147,6 +147,7 @@ This can also be a dedicated section of your README.md files.
 ## Tools
 
 - [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
+- [GitCard Studio](https://github.com/creativecodeco/gitcard-studio#readme) - Dynamic SVG cards and badges for project and profile READMEs. Displays real-time GitHub repository stats, commit habits matrix, streaks, language distributions, and sponsor tiers with a live web studio.
 - [Github Licenses Stats](https://github.com/lheintzmann1/github-licenses-stats#readme) - This tool generates a dynamic SVG that shows the top licenses used across your GitHub repositories.
 - [GitHub PR Stats](https://github.com/f14XuanLv/github-pr-stats#readme) - Dynamic SVG tables displaying your GitHub pull requests with dual modes: detailed PR list and repository aggregate statistics. Features status filtering, star-based sorting, and customizable fields.
 - [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
