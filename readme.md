@@ -168,6 +168,7 @@ This can also be a dedicated section of your README.md files.
 
 Embedding an animated gif in your README quickly demonstrates what your project does and catches the reader's eye. Here are a few programs that can help you quickly create gifs for your project:
 
+- [ezgif](https://ezgif.com/) - **Free** - Online GIF maker and editor with lots of features.
 - [Gifski](https://github.com/sindresorhus/Gifski#readme) - **Free** - More vivid colors than the rest, but still keeps size low.
 - [Giphy Capture](https://giphy.com/apps/giphycapture) - **Free** - Easy to upload to giphy.com, with a slightly annoying UX.
 - [LICEcap](https://www.cockos.com/licecap/) - **Free** - Less intuitive, but with more features.
