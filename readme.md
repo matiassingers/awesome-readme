@@ -160,6 +160,7 @@ This can also be a dedicated section of your README.md files.
 - [StackEdit](https://stackedit.io/) - A user-friendly online editor that allows you to quickly customize all the sections you need for your project's readme.
 - [Standard Readme](https://github.com/RichardLitt/standard-readme#readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
 - [Telegram Card](https://github.com/Malith-Rukshan/telegram-card#readme) - Dynamic preview card generator for Telegram channels, groups, and bots. Features responsive design, dark/light theme support, and displays subscriber/member/monthly users/online users counts. Perfect for GitHub profiles and portfolios.
+- [TypeFire README Editor](https://typefire.app/readme-editor) - Free browser editor that starts you from a README template and shows it formatted as you write. Download the README.md when it's done.
 - [user-statistician](https://github.com/cicirello/user-statistician#readme) - A GitHub Action that generates SVG of detailed GitHub user activity for profile readmes.
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md#readme) - Simple template to help you cover all the basics.
 
