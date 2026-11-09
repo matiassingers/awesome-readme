@@ -75,7 +75,7 @@ images, screenshots, GIFs, text formatting, etc.
 - [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt#readme) - GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
 - [NASA/ogma](https://github.com/NASA/ogma#readme) - Clear description. Feature list. Demo GIFs. Simple install instructions. Usage code samples. TOC for easy navigation.
 - [nhn/tui.editor](https://github.com/nhn/tui.editor#readme) - Project logo. Clear overview of project features with a demo GIF. Badges. TOC for easy navigation. Colorful icons in front of titles.
-- [nitr0yukkuri/githubplanet](https://github.com/nitr0yukkuri/githubplanet#readme) - The README introduces GitHub Planet, which creates colorful planets based on GitHub contributions and programming languages. It also explains how to create planet cards on the website.
+- [nitr0yukkuri/githubplanet](https://github.com/nitr0yukkuri/githubplanet/blob/main/README.en.md) - Project logo, interactive demo, visual planet-card examples, feature overview, and step-by-step instructions with copyable Markdown and GitHub Actions workflows.
 - [NSRare/NSGIF](https://github.com/NSRare/NSGIF#readme) - Project logo. GIF Demo. Usage artwork. Usage code samples.
 - [Owloops/updo](https://github.com/owloops/updo#readme) - Well-structured, visually appealing, and provides comprehensive information about the tool, from its purpose and features to installation and usage, in a clear and user-friendly manner.
 - [php-censor/php-censor](https://github.com/php-censor/php-censor#readme) - Multiple badges, project logo, feature list, video demo, step-by-step installation and upgrading instructions, TOC for easy navigation.
