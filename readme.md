@@ -1,4 +1,4 @@
-﻿
+
 
 # Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > A curated list of awesome READMEs
@@ -89,6 +89,7 @@ images, screenshots, GIFs, text formatting, etc.
 - [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion#readme) - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.
 - [serpro69/kotlin-faker](https://github.com/serpro69/kotlin-faker#readme) - Project logo. Badges. Concise description and clear getting-started instructions with a link to the full documentation website. Test, build and contributing guidelines. Licence info.
 - [shama/gaze](https://github.com/shama/gaze#readme) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
+- [shivrajsinhzala/transit-timetables](https://github.com/shivrajsinhzala/transit-timetables#readme) - Live production demo link. Clear problem statement, step-by-step pipeline commands, hosting architecture details, indexing strategy, and open data attribution.
 - [shriyanyamali/JurisMercatus](https://github.com/shriyanyamali/JurisMercatus#readme) - Project logo with badges and how to use GIF. Project purpose and development process. Simple but detailed installation instructions. License and attribution sections.
 - [sidneycadot/oeis](https://github.com/sidneycadot/oeis#readme) - Overview. List of required dependencies. Complete list of all files in the repo and what their function is. Visual graph of how it all ties together.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres#readme) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
